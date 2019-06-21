@@ -1,0 +1,50 @@
+﻿@model Hotel.Domain.Entities.Room
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Room</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CountOfPeople)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CountOfPeople)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RoomClass)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RoomClass)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RoomState)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RoomState)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.RoomId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,41 @@
+﻿@model Hotel.Domain.Entities.Room
+
+<div class="container">
+    <div>
+        <h2>Class @Model.RoomClass</h2>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            @if (Model.ImageData != null)
+            {
+
+                <div style="margin-right: 10px">
+                    <img class="" width="500"
+                         src="@Url.Action("GetImage", "Rooms",
+          new { Model.RoomId })" />
+                </div>
+            }
+        </div>
+        <div class="col-3">
+            <div class="text-center">
+                <p>Count Of People @Model.CountOfPeople</p>
+                <p>Price @Model.Price</p>
+                <p>State @Model.RoomState</p>
+
+                @using (Html.BeginForm("AddToCart", "Cart"))
+                {
+                <div class="border-dark">
+                    @Html.HiddenFor(x => x.RoomId)
+
+                    @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                    <input type="submit" class="btn btn-success" value="Добавить в корзину" />
+                </div>
+                }
+
+            </div>
+        </div>
+    </div>
+    
+
+
+</div>

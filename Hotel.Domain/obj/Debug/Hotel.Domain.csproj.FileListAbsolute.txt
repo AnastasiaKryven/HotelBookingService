@@ -1,0 +1,76 @@
+E:\EPAM\MyHotel\Hotel.Domain\bin\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel\Hotel.Domain\bin\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel\Hotel.Domain\obj\Debug\Hotel.Domain.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel\Hotel.Domain\obj\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel\Hotel.Domain\obj\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel\Hotel.Domain\obj\Debug\Hotel.Domain.csprojAssemblyReference.cache
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Hotel.Domain.dll.config
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\EntityFramework.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\EntityFramework.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\EPAM\MyHotel — копия\Hotel.Domain\obj\Debug\Hotel.Domain.csprojAssemblyReference.cache
+E:\EPAM\MyHotel — копия\Hotel.Domain\obj\Debug\Hotel.Domain.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel — копия\Hotel.Domain\obj\Debug\Hotel.Domain.csproj.CopyComplete
+E:\EPAM\MyHotel — копия\Hotel.Domain\obj\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия\Hotel.Domain\obj\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Hotel.Domain.dll.config
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\EntityFramework.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.Helpers.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.Mvc.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.Razor.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.WebPages.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\EntityFramework.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.Helpers.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.Mvc.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.Razor.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.WebPages.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\obj\Debug\Hotel.Domain.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\obj\Debug\Hotel.Domain.csproj.CopyComplete
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\obj\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.Domain\obj\Debug\Hotel.Domain.pdb

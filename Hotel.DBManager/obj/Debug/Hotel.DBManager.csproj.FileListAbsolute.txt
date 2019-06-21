@@ -1,0 +1,103 @@
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\Hotel.DBManager.dll.config
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\Hotel.DBManager.dll
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\Hotel.DBManager.pdb
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\EntityFramework.dll
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\EntityFramework.xml
+E:\EPAM\MyHotel\Hotel.DBManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel\Hotel.DBManager\obj\Debug\Hotel.DBManager.csprojAssemblyReference.cache
+E:\EPAM\MyHotel\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.CopyComplete
+E:\EPAM\MyHotel\Hotel.DBManager\obj\Debug\Hotel.DBManager.dll
+E:\EPAM\MyHotel\Hotel.DBManager\obj\Debug\Hotel.DBManager.pdb
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Hotel.DBManager.dll.config
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Hotel.DBManager.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Hotel.DBManager.pdb
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\EntityFramework.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Newtonsoft.Json.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Hotel.Domain.dll.config
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\EntityFramework.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\bin\Debug\Newtonsoft.Json.xml
+E:\EPAM\MyHotel — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csprojAssemblyReference.cache
+E:\EPAM\MyHotel — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.CopyComplete
+E:\EPAM\MyHotel — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.dll
+E:\EPAM\MyHotel — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Hotel.DBManager.dll.config
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Hotel.DBManager.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Hotel.DBManager.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\EntityFramework.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Newtonsoft.Json.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.Web.Common.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.Web.Common.WebHost.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.Web.Mvc.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.Helpers.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.Mvc.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.Razor.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.WebPages.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.WebPages.Razor.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Hotel.Domain.dll.config
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\EntityFramework.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Newtonsoft.Json.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.Web.Common.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.Web.Common.WebHost.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\Ninject.Web.Mvc.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.Helpers.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.Mvc.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.Razor.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.WebPages.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\bin\Debug\System.Web.WebPages.Razor.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csprojAssemblyReference.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.Migrations.InitialCreate.resources
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.Migrations.Migration.resources
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.Migrations.migr.resources
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.GenerateResource.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.csproj.CopyComplete
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.DBManager\obj\Debug\Hotel.DBManager.pdb

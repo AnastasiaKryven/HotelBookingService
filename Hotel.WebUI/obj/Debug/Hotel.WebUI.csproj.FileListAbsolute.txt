@@ -1,0 +1,314 @@
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.WebUI.dll.config
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.WebUI.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.WebUI.pdb
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\csc.exe
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\csc.exe.config
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\csc.rsp
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\csi.exe
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\csi.exe.config
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\csi.rsp
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.AppContext.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Console.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.IO.Compression.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.IO.FileSystem.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.IO.Pipes.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.AccessControl.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.Claims.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.ValueTuple.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Xml.XPath.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\vbc.exe
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\vbc.exe.config
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\vbc.rsp
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\EPAM\MyHotel\Hotel.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Antlr3.Runtime.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\EntityFramework.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.DBManager.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.Domain.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Newtonsoft.Json.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Helpers.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Mvc.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Optimization.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Razor.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.WebPages.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\WebGrease.dll
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.DBManager.pdb
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.DBManager.dll.config
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Hotel.Domain.pdb
+E:\EPAM\MyHotel\Hotel.WebUI\bin\EntityFramework.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Helpers.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Mvc.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Optimization.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.Razor.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.WebPages.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Newtonsoft.Json.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Antlr3.Runtime.pdb
+E:\EPAM\MyHotel\Hotel.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\EPAM\MyHotel\Hotel.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EPAM\MyHotel\Hotel.WebUI\obj\Debug\Hotel.WebUI.csprojAssemblyReference.cache
+E:\EPAM\MyHotel\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.CopyComplete
+E:\EPAM\MyHotel\Hotel.WebUI\obj\Debug\Hotel.WebUI.dll
+E:\EPAM\MyHotel\Hotel.WebUI\obj\Debug\Hotel.WebUI.pdb
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.WebUI.dll.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.WebUI.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.WebUI.pdb
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\csc.exe
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\csc.exe.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\csc.rsp
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\csi.exe
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\csi.exe.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\csi.rsp
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.AppContext.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Console.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.IO.Compression.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.IO.FileSystem.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.IO.Pipes.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.AccessControl.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.Claims.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.ValueTuple.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Xml.XPath.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\vbc.exe
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\vbc.exe.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\vbc.rsp
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Antlr3.Runtime.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\EntityFramework.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.DBManager.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Newtonsoft.Json.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Owin.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Helpers.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Mvc.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Optimization.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Razor.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.WebPages.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\WebGrease.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.DBManager.pdb
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.DBManager.dll.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Hotel.Domain.dll.config
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\EntityFramework.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Newtonsoft.Json.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Helpers.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Mvc.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Optimization.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.Razor.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.WebPages.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Antlr3.Runtime.pdb
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EPAM\MyHotel — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csprojAssemblyReference.cache
+E:\EPAM\MyHotel — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.CopyComplete
+E:\EPAM\MyHotel — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.dll
+E:\EPAM\MyHotel — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.WebUI.dll.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.WebUI.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.WebUI.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\csc.exe
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\csc.exe.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\csc.rsp
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\csi.exe
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\csi.exe.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\csi.rsp
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.AppContext.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Collections.Immutable.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Console.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.IO.Compression.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.IO.FileSystem.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.IO.Pipes.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.AccessControl.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.Claims.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.ValueTuple.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Xml.XPath.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\vbc.exe
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\vbc.exe.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\vbc.rsp
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\VBCSCompiler.exe
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\roslyn\VBCSCompiler.exe.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Antlr3.Runtime.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\EntityFramework.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\EntityFramework.SqlServer.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.DBManager.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.Domain.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Newtonsoft.Json.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.Web.Common.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.Web.Common.WebHost.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.Web.Mvc.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Owin.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Helpers.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Mvc.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Optimization.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Razor.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.WebPages.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\WebGrease.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.DBManager.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.DBManager.dll.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.Domain.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Hotel.Domain.dll.config
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\EntityFramework.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\EntityFramework.SqlServer.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Newtonsoft.Json.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.Web.Common.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.Web.Common.WebHost.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Ninject.Web.Mvc.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Helpers.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Mvc.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Optimization.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.Razor.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.WebPages.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Antlr3.Runtime.pdb
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csprojAssemblyReference.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.Migrations.InitialCreate.resources
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.Migrations.add.resources
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.GenerateResource.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.CoreCompileInputs.cache
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.csproj.CopyComplete
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.dll
+E:\EPAM\MyHotel — копия — копия\Hotel.WebUI\obj\Debug\Hotel.WebUI.pdb

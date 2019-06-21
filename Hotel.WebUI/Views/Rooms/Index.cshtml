@@ -1,0 +1,83 @@
+﻿@using Hotel.WebUI.Models
+@using Hotel.WebUI.Helpers
+@model RoomViewModel
+
+<div class="container jumbotron">
+    <h2 class="h1-responsive font-weight-bold text-center my-5">Stella Hotel Rooms</h2>
+    <div class="row">
+        <div class="col-9">
+
+
+            <p class="text-center w-responsive mx-auto mb-5">
+                <i>We Can Propose You The Best!</i>
+            </p>
+            <div>
+                @foreach (var it in Model.Rooms)
+                {
+                    @Html.Partial("RoomItems", it)
+                }
+            </div>
+        </div>
+        <div class="col-3">
+            <div class=" position-fixed">
+                <h3>Sort by:</h3>
+
+                <div class="custom-control custom-radio">
+                    <input type="radio" class="custom-control-input" id="defaultGroupExample1" name="groupOfDefaultRadios">
+                    <label class="custom-control-label" for="defaultGroupExample1">Price</label>
+                </div>
+                <div class="custom-control custom-radio">
+                    <input type="radio" class="custom-control-input" id="defaultGroupExample2" name="groupOfDefaultRadios">
+                    <label class="custom-control-label" for="defaultGroupExample2">Class</label>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked1">
+                        <label class="custom-control-label" for="defaultUnchecked1">A</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked2">
+                        <label class="custom-control-label" for="defaultUnchecked2">B</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked3">
+                        <label class="custom-control-label" for="defaultUnchecked3">C</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked4">
+                        <label class="custom-control-label" for="defaultUnchecked4">Luxe</label>
+                    </div>
+                </div>
+                <div class="custom-control custom-radio">
+                    <input type="radio" class="custom-control-input" id="defaultGroupExample3" name="groupOfDefaultRadios">
+                    <label class="custom-control-label" for="defaultGroupExample3">Count Of Place</label>
+                </div>
+                <div class="custom-control custom-radio">
+                    <input type="radio" class="custom-control-input" id="defaultGroupExample4" name="groupOfDefaultRadios">
+                    <label class="custom-control-label" for="defaultGroupExample4">State</label>
+
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked1">
+                        <label class="custom-control-label" for="defaultUnchecked1">Free</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked2">
+                        <label class="custom-control-label" for="defaultUnchecked2">Busy</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked3">
+                        <label class="custom-control-label" for="defaultUnchecked3">Booked</label>
+                    </div>
+                    <div class="custom-control custom-checkbox">
+                        <input type="checkbox" class="custom-control-input" id="defaultUnchecked4">
+                        <label class="custom-control-label" for="defaultUnchecked4">Not Available</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("Index", new { page = x }))
+</div>
+
+@Html.ActionLink("AddFeedback", "AddFeedback", "Room")
